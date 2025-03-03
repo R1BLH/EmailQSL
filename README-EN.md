@@ -41,7 +41,7 @@ To realize the above points, it is necessary to
 Disadvantages of this system:
 1. an agreement with callbook server owners is required to store additional data
 2. development of software and data formats is required
-3. the need to coordinate with the authors of hardware log software formats for storing and importing the original QSL (received parts and electronic signatures to them)
+3. the need to coordinate with the authors of logbook software formats for storing and importing the original QSL (received parts and electronic signatures to them)
 4. the need to manually form and send applications for diplomas.However, at unification of the file format describing the conditions of diploma program execution it will be possible to do it automatically.
 5. the need to be responsible for your data (public and private keys, QSL, logbook, etc.).
 
